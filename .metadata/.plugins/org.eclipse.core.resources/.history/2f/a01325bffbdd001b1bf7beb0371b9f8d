@@ -1,0 +1,19 @@
+package inherite_review;
+
+import java.util.Scanner;
+
+public class PersonTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner (System.in);
+		
+		Person p1 = new Person("È«±æµ¿", "001234-200000");
+		Person p2 = new Person("È«±æ¼ø", "001234-200000");
+		
+		System.out.println("[ Person Test ]");
+		System.out.println(p1 + "\n" + p2);
+		System.out.println(p1.equals(p2));
+	}
+
+}

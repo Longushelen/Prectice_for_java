@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Longushelen &lt;86008239+Longushelen@users.noreply.github.com&gt;"/>
+		<item value="helen_goo &lt;86008239+Longushelen@users.noreply.github.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Longushelen &lt;86008239+Longushelen@users.noreply.github.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\연습파일\BaekJoon_Study\.git">
+			<item value="true"/>
+			<item value="Longushelen &lt;86008239+Longushelen@users.noreply.github.com&gt;"/>
+			<item value="test1"/>
+			<item value="Longushelen &lt;86008239+Longushelen@users.noreply.github.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

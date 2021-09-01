@@ -1,0 +1,16 @@
+package inherite_review;
+
+public class Child extends Person{
+	
+	String school;
+	int grade;
+	boolean student;
+	
+	Child(){}
+	Child(String school, int grade, boolean student){
+		this.school = school;
+		this.grade = grade;
+		this.student = student;
+	}
+	
+}

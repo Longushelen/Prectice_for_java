@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Lecture_0705&apos;&#x0D;&#x0A;- Original project: &apos;Lecture_0705&apos;&#x0D;&#x0A;- Original element: &apos;Lecture_0705/src/inherite_review.bin&apos;" description="Delete element" element1="/src&lt;inherite_review.bin" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1625535750825" subPackages="false" version="1.0"/>
+</session>
